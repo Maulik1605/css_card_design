@@ -1,0 +1,71 @@
+body{
+    background-color: gray;
+
+}
+
+.card{
+    height: 500px;
+    width:  320px;
+    background-color: white;
+    border-radius: 10px;
+    background-size: cover;
+    padding-bottom: 75px;
+    /* height: 200px;
+    width: 300px; */
+    
+}
+
+img {
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.capsules span{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    margin: 5px; 
+    /* margin-top: 200px; */
+    color:rgb(3, 52, 55)
+}
+.capsules{
+    padding: 0 20px;
+
+}
+
+.containt h1{
+    padding: 5px 0 0 23px;
+    margin-bottom: 0;
+    font-size: 27px;
+    font-style: initial;
+
+}
+
+.containt p{
+    padding: 0 0px 0px 26px;
+    font-size: 19px;
+    font-style:italic;
+    color: gray;
+    font-family: 'poppins',sans-serif;
+
+}
+
+button{
+    /* border: 2px  solid  black; */
+    border-radius: 15px;
+    color: rgb(42, 42, 99);
+    padding: 7px 15px 7px 15px;
+    background-color: antiquewhite;
+    margin-left: 90px;
+    margin-top: 10px;
+    font-size: 20px;
+    /* text-align: center; */
+}
+
+button :hover{
+    background-color:black
+
+}
